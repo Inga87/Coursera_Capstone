@@ -1,6 +1,6 @@
 # Public primary schools in London. Choropleth map.
 
-*link to the full code with plotly =>
+*link to the full code with plotly => https://nbviewer.jupyter.org/github/Inga87/Public_primary_schools_London/blob/master/Schools_v3.ipynb**
 
 ---
 
